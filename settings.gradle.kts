@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "miuliapp"
+rootProject.name = "MIULI"
 include(":app")
- 
